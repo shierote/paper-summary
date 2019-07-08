@@ -1,8 +1,7 @@
 # Engineering study on the use of Head-Mounted display for Brain-Computer Interface
-## Abstract
-
 https://arxiv.org/pdf/1906.12251.pdf
 
+## Abstract
 - HMD(VR)デバイスは脳波を用いるP300ベースのBCIと相性が良い
   - [P300](http://www2.oninet.ne.jp/ts0905/human/p300.htm): 互いに識別可能な2種類以上の感覚刺激(聴覚・視覚・体性感覚・臭覚・味覚などなど)をランダムに呈示し、低頻度の刺激を選択的に注意させることによって、刺激後約250～500msec(論文では300msと記載)という長潜時で出現する陽性電位
 - HMDに現れる刺激を完全に脳波信号の取得と同期させる必要がある
